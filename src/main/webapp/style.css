@@ -1,0 +1,13 @@
+.center {
+    margin : 0 auto;
+    width : 400px;
+}
+
+.feedbackPanel {
+    list-style: none;
+    padding-left  : 0;
+}
+
+.feedbackPanelERROR {
+    color : red;
+}
